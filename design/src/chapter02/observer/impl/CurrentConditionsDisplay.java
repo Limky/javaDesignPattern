@@ -28,5 +28,6 @@ public class CurrentConditionsDisplay implements Observer, DisplayElement{
 		display();
 	}
 	
+	 
 	
 }
